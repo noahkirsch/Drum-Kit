@@ -1,0 +1,19 @@
+{
+  "name": "drumkit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noahkirsch/Drum-Kit.git"
+  },
+  "author": "noahkirsch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noahkirsch/Drum-Kit/issues"
+  },
+  "homepage": "https://github.com/noahkirsch/Drum-Kit#readme"
+}
